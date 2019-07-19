@@ -1,4 +1,5 @@
 #Este archivo nos ayuda a excluir archivos git
 /images
-/sass
+/sass/*.map
+/sass/style.scss 
  
